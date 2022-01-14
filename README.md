@@ -385,6 +385,74 @@ Q.8) The X and Y coordinates of 10 different points are entered through the
     distance between consecutive points).
 Q.9) WAP to pick up the largest number from any 5 row by 5 column matrix.
 ```
+
+### [Lab 18](#)
+#### Assignment 17 - 17th December 2022
+##### Combined activity with Assignment 16.
+
+
+### [Lab 19](#)
+#### Assignment 18 - 6th January 2022
+```
+Q.1) Write a Program in 'C' to input two numbers and add them using pointer. 
+Q.2) Write a Program in 'C' to find out factorial of a number using pointer.
+Q.3) Write a Program in 'C' to check the given number is Armstrong number or not using pointer. 
+Q.4) Write a Program in 'C' to find out sum of all the elements of the given array using pointer variable. 
+Q.5) Write a Program in 'C' to sort the elements of an array using pointer. 
+```
+
+### [Lab 20](#)
+#### Assignment 19 - 7th January 2022
+```
+Q.1) Write a Program to find the sum of first 'n' elements of two arrays, return:
+      * 0 if the sum is equal
+      * 1 if sum of 1st array is larger
+      * 2 if sum of 2nd array is larger
+Q.2) Write a Program to find the sum of first 'n' elements of two arrays, return:
+      * 0 if the sum is equal
+      * 1 if sum of 1st array is larger
+      * 2 if sum of 2nd array is larger
+     (starting from a fix position, i.e. ignoring first few elements)
+Q.3) Accessing two dimensional array (number of rows are fixed but
+     size of each column is variable) using arrays of pointer variable.
+     // Rewritten to understad better
+     Write a program to take a matrix as input in a 2D array 
+     and display it's contents using only pointer variables.
+     * The matrix will have the same number of rows, but number
+       of columns will be user specified.
+Q.4) Write a Program to finding the number of 'a' character present in all
+     names using arrays of pointer variable.
+     char a[] = "Yudhistir", b[] = "Bhim", c[] = "Arjun", d[] = "Nakul", e[] = "Sahadev";
+Q.5) Accessing two dimensional array (number of rows are variable
+     but size of each column is fixed) using pointer variable
+     // Rewritten to understad better
+     Write a program to take a matrix as input in a 2D array 
+     and display it's contents using only pointer variables.
+     * The matrix will have the same number of columns, but number
+       of rows will be user specified.
+Q.6) Write a program to add elements present in every row of a matrix
+     and store it in an array using pointer.
+```
+
+### [Lab 21](#)
+#### Assignment 20 - 13th January 2022
+```
+Q.1) Write a function in 'C' to add elements present in every row of a
+     matrix and store it in array using pointer. 
+Q.2) Write a function in 'C' to find the largest element of a 4*5
+     matrix and in the same function find the largest element of each
+     row and store it in array using pointer. 
+Q.3) Write a Program in 'C' to copy a string to another string i.e.
+     source to destination string. 
+Q.4) Write a Program in 'C' to find length of a string. 
+Q.5) Write a Program in 'C' to find frequency of a character in a string. 
+Q.6) Write a Program in 'C' to concatenate two strings i.e. concatenating
+     string s2 to string s1. 
+Q.7) Write a Program in 'C' to to compare two strings, if both strings
+     are equal then return -1, if both are not equal then return the
+     position where the first mismatch occurs.
+```
+
 ---
 
 <b>○ </b>[This repo will ignore compiled and executable files](https://github.com/HaxnovR/KIIT-B20-Programs/blob/198d4a0812564cde39d713257096e84d70b3868a/.gitignore)
