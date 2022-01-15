@@ -415,7 +415,7 @@ Q.2) Write a Program to find the sum of first 'n' elements of two arrays, return
      (starting from a fix position, i.e. ignoring first few elements)
 Q.3) Accessing two dimensional array (number of rows are fixed but
      size of each column is variable) using arrays of pointer variable.
-     // Rewritten to understad better
+     // Rewritten to understand better
      Write a program to take a matrix as input in a 2D array 
      and display it's contents using only pointer variables.
      * The matrix will have the same number of rows, but number
@@ -425,7 +425,7 @@ Q.4) Write a Program to finding the number of 'a' character present in all
      char a[] = "Yudhistir", b[] = "Bhim", c[] = "Arjun", d[] = "Nakul", e[] = "Sahadev";
 Q.5) Accessing two dimensional array (number of rows are variable
      but size of each column is fixed) using pointer variable
-     // Rewritten to understad better
+     // Rewritten to understand better
      Write a program to take a matrix as input in a 2D array 
      and display it's contents using only pointer variables.
      * The matrix will have the same number of columns, but number
@@ -453,6 +453,19 @@ Q.7) Write a Program in 'C' to to compare two strings, if both strings
      position where the first mismatch occurs.
 ```
 
+### [Lab 22](#)
+#### Assignment 21 - 14th January 2022
+```
+Q.1) Write a program in 'C' to create a structure Book having data members as name, price, and pages. Now enter the details of two books with quantity and calculate the total price, then display the details of two books with quantity and total price. 
+
+Q.2) Write a function in 'C' to create a structure employee having data members as name, age, address and salary. Take data for n employee in an array and find the average salary. 
+
+Q.3) Write a program in 'C' to create a structure Book having data members as name, price, and pages. Now enter the details of 'n' books and display them using pointer to array of structure. 
+
+Q.4) Write a program in 'C' to create a structure DOB having data members day, month, and year, then create another structure student having data members rollno, name and DOB. Now enter the details of a student and display this using nested structure. 
+
+Q.5) Write a program in 'C' to create a structure product having data members name, company_name, price. Now enter the details of product within main() and display the details of product using two function where 1st function takes individual members and 2nd function takes entire structure.
+```
 ---
 
 <b>○ </b>[This repo will ignore compiled and executable files](https://github.com/HaxnovR/KIIT-B20-Programs/blob/198d4a0812564cde39d713257096e84d70b3868a/.gitignore)
