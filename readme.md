@@ -456,15 +456,26 @@ Q.7) Write a Program in 'C' to to compare two strings, if both strings
 ### [Lab 22](#)
 #### Assignment 21 - 14th January 2022
 ```
-Q.1) Write a program in 'C' to create a structure Book having data members as name, price, and pages. Now enter the details of two books with quantity and calculate the total price, then display the details of two books with quantity and total price. 
+Q.1) Write a program in 'C' to create a structure Book having data members as name, price, and pages. Now enter the details of two books with quantity and calculate the total price, then display the details of two books with quantity and total price.
 
-Q.2) Write a function in 'C' to create a structure employee having data members as name, age, address and salary. Take data for n employee in an array and find the average salary. 
+Q.2) Write a function in 'C' to create a structure employee having data members as name, age, address and salary. Take data for n employee in an array and find the average salary.
 
 Q.3) Write a program in 'C' to create a structure Book having data members as name, price, and pages. Now enter the details of 'n' books and display them using pointer to array of structure. 
 
 Q.4) Write a program in 'C' to create a structure DOB having data members day, month, and year, then create another structure student having data members rollno, name and DOB. Now enter the details of a student and display this using nested structure. 
 
 Q.5) Write a program in 'C' to create a structure product having data members name, company_name, price. Now enter the details of product within main() and display the details of product using two function where 1st function takes individual members and 2nd function takes entire structure.
+```
+### [Lab 23](#)
+#### Assignment 22 - 15th January 2022
+```
+Q.1) Write a program in 'C' to demonstrate all the storage class. 
+
+Q.2) Write a program in 'C' to allocate n elements dynamically to a pointer variable, assign data and find sum of all n elements using pointer variable. 
+
+Q.3) Write a program in 'C' to allocate and assign dynamically 2-D array ([n][5]), where column size is fixed to 5 to a pointer and find sum of all elements. 
+
+Q.4) Write a program in 'C' to allocate n elements dynamically to a pointer variable, assign data, then find the largest element and store it in the 0th position.
 ```
 ---
 
