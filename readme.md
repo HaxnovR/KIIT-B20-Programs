@@ -477,6 +477,19 @@ Q.3) Write a program in 'C' to allocate and assign dynamically 2-D array ([n][5]
 
 Q.4) Write a program in 'C' to allocate n elements dynamically to a pointer variable, assign data, then find the largest element and store it in the 0th position.
 ```
+
+### [Lab 24](#)
+#### Assignment 23 - 20th January 2022
+```
+Q.1) WAP to declare an union named as ABC having two members a as character and b
+    as integer. Assign 'A' to a, 1088 to b respectively through an union variable ob one by one
+    and display these values immediately. Now assign these values to a, b through ob all
+    together and display these values at last. Find the difference.
+Q.2) WAP to swap two variables using bitwise operator.
+Q.3) WAP to represent days of a week using enumeration and display a specific day value.
+Q.4) WAP to add alternative name of two long integer type to represent two variable and
+    find LCM of that two numbers.
+```
 ---
 
 <b>○ </b>[This repo will ignore compiled and executable files](https://github.com/HaxnovR/KIIT-B20-Programs/blob/198d4a0812564cde39d713257096e84d70b3868a/.gitignore)
