@@ -490,6 +490,16 @@ Q.3) WAP to represent days of a week using enumeration and display a specific da
 Q.4) WAP to add alternative name of two long integer type to represent two variable and
     find LCM of that two numbers.
 ```
+
+### [Lab 25](#)
+#### Assignment 24 - 21st January 2022
+```
+Q.1) Read contents of a file, store it onto an array and find sum of the elements
+Q.2) Write contents of an array to a file
+Q.3) Display contents of a file on screen
+Q.4) Count chars, blank spaces, tabs and newlines in a file
+Q.5) Write a program in 'C' to copy the contents of one file to another file.
+```
 ---
 
 <b>○ </b>[This repo will ignore compiled and executable files](https://github.com/HaxnovR/KIIT-B20-Programs/blob/198d4a0812564cde39d713257096e84d70b3868a/.gitignore)
