@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<ctype.h>
 
 int main(){
     FILE *fp;
@@ -7,7 +6,7 @@ int main(){
     fp = fopen("prg4data.dat","r");
     int ch = getc(fp);
     while(ch != EOF){
-        if(isalpha(ch))chr++;
+        if((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))chr++;
         if(ch == ' ')space++;
         if(ch == '\n')newline++;
         ch = getc(fp);
