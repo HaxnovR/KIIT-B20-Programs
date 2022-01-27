@@ -1,5 +1,6 @@
 .vscode/
 /ignored_dir/
+/Exam
 *.json
 *.exe
 *.o
